@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "439901374660",
+    "project_id": "chatapp-tutorial-7501e",
+    "storage_bucket": "chatapp-tutorial-7501e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:439901374660:android:135b1c9ad837643100e191",
+        "android_client_info": {
+          "package_name": "com.mughaltech.chatapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8vto9DtgW-L6CRmeRDsGg4mLs75vhxDk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
